@@ -1,6 +1,6 @@
 {
     "name": "jakzal/codeclub",
-    "licence": "MIT",
+    "license": "MIT",
     "type": "project",
     "description": "A codeclub starting point",
     "require-dev": {
