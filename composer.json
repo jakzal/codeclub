@@ -1,13 +1,13 @@
 {
-    "name": "jakzal/codeclub",
+    "name": "zalas/codeclub",
     "license": "MIT",
     "type": "project",
     "description": "A codeclub starting point",
     "require-dev": {
-        "phpspec/phpspec": "~2.1"
+        "phpspec/phpspec": "^2.1"
     },
     "autoload": {
-        "psr-0": { "": "src"}
+        "psr-4": { "CodeClub\\": "src"}
     },
     "config": {
         "bin-dir": "bin"

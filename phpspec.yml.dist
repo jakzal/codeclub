@@ -1,0 +1,5 @@
+suites:
+  acme_suite:
+    namespace: CodeClub
+    psr4_prefix: CodeClub
+

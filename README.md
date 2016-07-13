@@ -1,12 +1,8 @@
 # Code club
 
-Download composer:
-
-    curl -sS https://getcomposer.org/installer | php
-
 Initialize your code club project:
 
-    php composer.phar create-project jakzal/codeclub
+    composer create-project zalas/codeclub
 
 ## 3 Laws of TDD
 
