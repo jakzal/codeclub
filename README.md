@@ -2,7 +2,7 @@
 
 Initialize your code club project:
 
-    composer create-project zalas/codeclub
+    composer create-project zalas/codeclub:dev-phpunit
 
 ## 3 Laws of TDD
 
